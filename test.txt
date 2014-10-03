@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Ceci est un fichier de test.
+
+Deuxième ligne dans le fichier de test.
+
+Troisième ligne dans le fichier de test.
+=======
+>>>>>>> parent of 53e9077... Modificatin test.txt
