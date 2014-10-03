@@ -1,3 +1,1 @@
 Ceci est un fichier de test.
-
-Troisième ligne dans le fichier de test.
